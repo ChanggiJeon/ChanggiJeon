@@ -26,10 +26,10 @@
 
 😄 About Me
 ---
-welecome to visit my github!
-BackEnd Programmer
-SSAFY 6th Student
-Live in Gumi
+welecome to visit my github!  
+1️⃣ BackEnd Programmer  
+2️⃣ SSAFY 6th Student  
+3️⃣ Live in Gumi  
 
 
 🏅 Rank
