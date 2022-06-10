@@ -50,3 +50,7 @@ welecome to visit my github!
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanggiJeon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+
+📧 Email
+---
+<h3> wjs1724@naver.com </h3>
