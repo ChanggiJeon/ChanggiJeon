@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=150&section=header&text=Changgi's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=03F3B3&height=150&section=header&text=Jeon's%20Github&fontColor=DDE5EF&fontSize=90&)
 
 <br/>
 <div align="center"><h2 style="text-align-center"> ⚙️ Tech Stack ⚙️ </h2></div>
