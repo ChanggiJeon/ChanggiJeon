@@ -39,7 +39,7 @@
 <br/>
 1️⃣ BackEnd Programmer  
 2️⃣ SSAFY 6th Student  
-3️⃣ Live in Gumi  
+3️⃣ Live in Gwangyang  
 
 🏆 Awards
 ---
