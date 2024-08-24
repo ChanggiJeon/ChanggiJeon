@@ -63,3 +63,8 @@
   <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=ChanggiJeon&show_icons=true&include_all_commits=true&?fetch_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
+Hanghae99
+---
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
